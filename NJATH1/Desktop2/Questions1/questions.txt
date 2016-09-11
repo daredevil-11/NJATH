@@ -1,0 +1,151 @@
+## Q1   level 1
+	ans : batman
+	
+	sol : (murcealago + hombre) in spanish
+
+## Q2	level 3
+	
+	He fought , he fought till his last breath,
+	the market, his own was facing its death,
+	the roads he gaurded was under a threat,
+	the agents of 'justice' hand their culf on his wrists.
+	
+	Identify 'HE'	
+	ans : Ross William Ulbricht
+
+	sol : RWU was founder of the silkroad on the onion network , which
+	      tried hard to protect but in the end was shut down and he himself
+	      caught. His handle was dead pirate roberts
+
+## Q3  level 1
+	
+	How good is your math ? Can you paint me? I am not Angry! 
+	(?Ti Si Ro ! Noitcartsid  a Tsuj Si Siht ! Niav Ni Kool)
+
+				 1 2 3 4 5 6 
+                              +  e d c a a a
+
+	ans : yellow
+	
+	sol : 123456 + edcaaa =ffff00
+
+
+## Q4	level 1
+	
+	Bonjour ! quel est mon nom ??
+	ans : perenoel
+	
+	sol : santaClause is called pereNoel in french
+
+## Q5  level 2
+
+	ans : pig
+
+	sol : the line is from a book animal farm in which neppolion is a pig
+
+## Q6  level 3
+		
+	ans : elmo
+	
+	sol : elmo was a character from sesame street who had to testify infront of congress
+
+## Q7  level 2
+	
+	Lets be so naughty that our childhood becomes a movie. Lets do something great ! Lets steal the moon!!
+	ans : O Dwoch Takich co ukradli Ksiezyc
+
+	sol : There was a Polish movie in 1962 called 'O Dwoch Takich co ukradli Ksiezyc'; literally meaning 
+	      'The two who stole the moon'. It starred twin brothers who were pretty naughty by nature and 
+	       decided one day to steal the moon believing it was made of gold. This movie gained prominence in
+	       around 2005 because the twins were Lech and Jaroslaw Kaczynski, who became President and Prime 
+	       Minister of Poland at the same time. :)
+
+## Q8 level 3
+	
+	"Monkeys Write!"
+	ans : newyorktimes
+
+	sol : Anagram
+
+## Q9 level 1/2
+	
+	ans : RichardGambon
+
+	sol : richard harris + michael gambon
+
+## Q10 level 2
+	
+	CRKTJPMUCX
+	ans : NJATHISFUN
+	
+	sol : PIKACHU is key
+	vigenere cypher 
+
+## Q11 level 1
+	
+	ans: iambatman
+	
+	sol : pig's pen cypher
+
+## Q12 level 3
+	kirnv wruuvivmxv yvgdvvm srilhsrnz zmw mztzhzpr
+	ans : 3
+
+	sol : atbash decode : prime diference between hiroshima and nagasaki
+
+## Q13 level 3/4
+	
+	ans : edsullivanshow
+
+	sol : Beatles and the crickets was hosted here , they used it as a platform to launch themselves in USA.
+
+## Q14 level 3/4
+	
+	ans : SethLover
+	sol : The four forefathers of rock music equipmen: Jim Marshall , Leo Fender, Les Paul and Seth Lover
+
+## Q15 level 3
+	
+	ans : RedSpecial
+	
+	sol : Brian Harold May CBE (born 19 July 1947) is an English musician, singer, songwriter 
+		and astrophysicist who achieved international fame as the lead guitarist of the
+		 rock band Queen. He uses a home-built guitar, the Red Special. His compositions for the band 
+		include "We Will Rock You", "Tie Your Mother Down" and "Fat Bottomed Girls".
+
+## Q16 level 3
+	
+	ans : mrsdoubtfire
+
+	sol : (gene : robin wiliams , pierece brosnan stared in mrsdoubtfire whose Hindi version had kamal hasan)
+
+## Q17 level 2
+ 
+	ans : I
+
+	sol : hidden text message
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
